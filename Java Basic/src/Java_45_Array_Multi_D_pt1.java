@@ -1,6 +1,5 @@
 public class Java_45_Array_Multi_D_pt1 {
     public static void main(String[] args) {
-
         System.out.println("Array 2 Dimensi");
         //Membuat array 2D dengan assignment
         int[][] array_2D = {{1,2}, {3,4}};
